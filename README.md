@@ -1,5 +1,5 @@
  **Application de gestion des employés** <br/>
- Nous proposons la conception et la réalisation d'une application web et mobile pour la gestion des employés
+ Nous proposons la conception et la réalisation d'une application web et mobile pour la gestion des employés Et c'est dans ce cadre qui se dirige notre travail :
  
 **Specification des besoins fonctionnels**
 
