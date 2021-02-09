@@ -1,4 +1,4 @@
- **application de gestion des employés**
+ **Application de gestion des employés**
  
 **Specification des besoins fonctionnels**
 
